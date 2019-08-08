@@ -16,3 +16,5 @@ http://localhost/shop
 http://localhost/admin
 
 
+sudo docker-compose down
+
