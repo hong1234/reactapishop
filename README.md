@@ -1,5 +1,5 @@
 # reactshop
-git clone https://github.com/hong1234/reactshop.git
+git clone https://github.com/hong1234/reactapishop.git
 
 cd reactshop
 
